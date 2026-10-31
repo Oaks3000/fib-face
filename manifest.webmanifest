@@ -1,0 +1,16 @@
+{
+  "name": "Fib Face",
+  "short_name": "Fib Face",
+  "description": "A bluffing game of true facts and made-up endings, played round one phone.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f3329",
+  "theme_color": "#0f3329",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
